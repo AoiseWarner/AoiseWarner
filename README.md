@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AoiseWarner
 - 👀 I’m interested in everything tech related!
-- 🌱 I’m currently pursuing a BSc (Honours) in Software Development at Munster Technological University and I'm in my final year.
-- 📫 How to reach me - email: aoise.warner@mycit.ie, all of my other socials are @AoiseWarner
+- 🌱 I will be graduating in October 2021 after pursuing a BSc (Honours) in Software Development.
+- 📫 How to reach me - email: aoisewarner@gmail.com, all of my other socials are @AoiseWarner
 
 <!---
 AoiseWarner/AoiseWarner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
