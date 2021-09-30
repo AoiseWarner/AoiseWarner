@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AoiseWarner
 - 👀 I’m interested in everything tech related!
-- 🌱 I will be graduating in October 2021 after pursuing a BSc (Honours) in Software Development.
+- 🌱 I will be graduating in January 2022 after pursuing a BSc (Honours) in Software Development.
 - 📫 How to reach me - email: aoisewarner@gmail.com, all of my other socials are @AoiseWarner
 
 <!---
